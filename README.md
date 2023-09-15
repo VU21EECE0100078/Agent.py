@@ -1,4 +1,4 @@
-# Agent.py
+# Agent.py-
 class Agent:
     def _init_(self):
         self._wumpusWorld = [
